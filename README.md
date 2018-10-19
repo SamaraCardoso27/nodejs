@@ -42,3 +42,6 @@
         }
     ]
 }
+
+
+https://code.visualstudio.com/docs/editor/debugging#_compound-launch-configurations
